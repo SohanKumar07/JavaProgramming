@@ -1,4 +1,4 @@
-package Variables_02;
+package Chapter_02;
 
 public class ss_01_variables {
     public static void main(String[] args) {
@@ -6,6 +6,7 @@ public class ss_01_variables {
         //dataType variableName = value;
 
         int age = 21;
+
         System.out.println(age);
         System.out.println("My age is: " + age);
 

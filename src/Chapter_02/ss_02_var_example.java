@@ -1,4 +1,4 @@
-package Variables_02;
+package Chapter_02;
 
 public class ss_02_var_example {
     public static void main(String[] args) {
