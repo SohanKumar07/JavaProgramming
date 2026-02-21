@@ -1,0 +1,20 @@
+🔹 Types of Operators in Java
+
+Java operators are mainly divided into 8 categories:
+
+1. Arithmetic Operators
+Addition(+), Substraction(-), Multiplication(*), Division(/), Modulus(%)-remainder
+
+Assignment Operators
+
+Relational (Comparison) Operators
+
+Logical Operators
+
+Bitwise Operators
+
+Unary Operators
+
+Ternary Operator
+
+Shift Operators
