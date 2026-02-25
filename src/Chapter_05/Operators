@@ -1,13 +1,22 @@
-🔹 Types of Operators in Java
+    Types of Operators in Java
 
 Java operators are mainly divided into 8 categories:
 
 1. Arithmetic Operators
 Addition(+), Substraction(-), Multiplication(*), Division(/), Modulus(%)-remainder
 
-Assignment Operators
+2. Assignment Operators
+(+=) add and assign, (-=) subtract and assign, (*=) multiply and assign, (/=) divide and assign, (%=) modulus and assign
+--> Assignment operators work from right to left
+example - All variables will store 5
+int a, b, c;
+a = b = c = 5;
 
-Relational (Comparison) Operators
+3. Relational (Comparison) Operators
+--> Relational operators in Java are used to compare two values.
+--> They always return a boolean result (true or false)
+(==), (!=), (>), (<), (>=), (<=)
+
 
 Logical Operators
 
