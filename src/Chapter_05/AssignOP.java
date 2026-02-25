@@ -35,5 +35,13 @@ public class AssignOP {
 
         c *= a ;
         System.out.println("c *= a = " + c );
+
+
+        // work from right to left
+        int x, y, z;
+        x = y = z = 5;
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(z);
     }
 }
